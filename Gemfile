@@ -7,3 +7,4 @@ group :jekyll_plugins do
 
 gem "just-the-docs"
 gem "webrick", "~> 1.7"
+gem 'github-pages'
